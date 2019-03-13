@@ -15,3 +15,6 @@
 
 ### Dictionaries
 [DICTIONARIES](https://www.w3schools.com/python/python_dictionaries.asp)
+
+### GZIP
+[Extract Images](https://stackoverflow.com/questions/40427435/extract-images-from-idx3-ubyte-file-or-gzip-via-python)
