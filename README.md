@@ -20,6 +20,8 @@
 [Extract Images](https://stackoverflow.com/questions/40427435/extract-images-from-idx3-ubyte-file-or-gzip-via-python)
 
 ### MNIST
+[MNIST](http://yann.lecun.com/exdb/mnist/)
+
 [Convert to CSV](https://github.com/egcode/MNIST-to-CSV/blob/master/MNIST%20Convert.ipynb)
 
 [Loading to Numpy Array](http://rasbt.github.io/mlxtend/user_guide/data/loadlocal_mnist/)
