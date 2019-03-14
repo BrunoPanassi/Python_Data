@@ -21,3 +21,4 @@
 
 ### MNIST
 [Convert to CSV](https://github.com/egcode/MNIST-to-CSV/blob/master/MNIST%20Convert.ipynb)
+[Loading to Numpy Array](http://rasbt.github.io/mlxtend/user_guide/data/loadlocal_mnist/)
