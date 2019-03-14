@@ -18,3 +18,6 @@
 
 ### GZIP
 [Extract Images](https://stackoverflow.com/questions/40427435/extract-images-from-idx3-ubyte-file-or-gzip-via-python)
+
+### MNIST
+[Convert to CSV](https://github.com/egcode/MNIST-to-CSV/blob/master/MNIST%20Convert.ipynb)
