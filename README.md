@@ -28,6 +28,7 @@
 
 [Loading to Numpy Array](http://rasbt.github.io/mlxtend/user_guide/data/loadlocal_mnist/)
 
-###SkLearn
-[Error with 'fetch_mldata'](https://stackoverflow.com/questions/19530383/how-to-use-datasets-fetch-mldata-in-sklearn)
-(https://stackoverflow.com/questions/53096977/mnist-data-download-from-sklearn-datasets-gives-timeout-error)
+### SkLearn
+[Error with 'fetch_mldata' 1](https://stackoverflow.com/questions/19530383/how-to-use-datasets-fetch-mldata-in-sklearn)
+
+[Error with 'fetch_mldata' 2](https://stackoverflow.com/questions/53096977/mnist-data-download-from-sklearn-datasets-gives-timeout-error)
