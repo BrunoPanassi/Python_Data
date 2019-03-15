@@ -27,3 +27,7 @@
 [Convert to CSV](https://github.com/egcode/MNIST-to-CSV/blob/master/MNIST%20Convert.ipynb)
 
 [Loading to Numpy Array](http://rasbt.github.io/mlxtend/user_guide/data/loadlocal_mnist/)
+
+###SkLearn
+[Error with 'fetch_mldata'](https://stackoverflow.com/questions/19530383/how-to-use-datasets-fetch-mldata-in-sklearn)
+(https://stackoverflow.com/questions/53096977/mnist-data-download-from-sklearn-datasets-gives-timeout-error)
