@@ -32,3 +32,7 @@
 [Error with 'fetch_mldata' 1](https://stackoverflow.com/questions/19530383/how-to-use-datasets-fetch-mldata-in-sklearn)
 
 [Error with 'fetch_mldata' 2](https://stackoverflow.com/questions/53096977/mnist-data-download-from-sklearn-datasets-gives-timeout-error)
+
+### Hands on Machine-Learning (Code Notes)
+[Example 1-1](https://github.com/ageron/handson-ml/blob/master/01_the_machine_learning_landscape.ipynb)
+
